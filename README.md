@@ -1,4 +1,4 @@
-# Defensive programming framework for TypeScript
+#   Defensive programming framework for TypeScript
 
 Defensive programing is a programming style that practices thorough validation of function input parameters resulting in robust code that allows function execution only in case of valid input or terminates it otherwise.
 
